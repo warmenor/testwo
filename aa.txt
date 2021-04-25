@@ -2,11 +2,4 @@
 this is aa file
 hahahah
 aaaaa
-hhhhh
-oooo
-ppp
-qqqq
-rrrrrr
-aaaaaa
-bbbbb
-cccc
+bbbb
